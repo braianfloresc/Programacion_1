@@ -23,7 +23,7 @@ Convenciones recomendadas
 """
 #TIPOS DE DATOS
 """
-STRING}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}} (cadena de texto)
+STRING (cadena de texto)
     Los strings son un tipo de dato que utilizamos para almacenar cadenas de caracteres. Se definen encerrando el texto entre comillas simples (' ') o dobles (" ").
         longitud: La función len() devuelve el número de caracteres
 
