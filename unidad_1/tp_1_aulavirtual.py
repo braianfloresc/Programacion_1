@@ -1,7 +1,7 @@
 
 #Práctico 1: Estructuras secuenciales
 #Nombre alumno: braian flores
-
+#link repositorio : https://github.com/braianfloresc/Programacion_1
     # ejercicio 1
 
 print("Hola Mundo!")
