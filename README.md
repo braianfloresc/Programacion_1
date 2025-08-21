@@ -1,6 +1,6 @@
 ### 📚 PROGRAMACION 1 
-#### FACULTAD TECNOLOGICA NACIONAL
-
+#### Tecnicatura Universitaria en Programación
+📍 Universidad Tecnológica Nacional
 # _______________
 #### ✨ ESTUDIANTE
 
